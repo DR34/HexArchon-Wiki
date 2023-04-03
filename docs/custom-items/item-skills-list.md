@@ -73,6 +73,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Test of Soul|Grants 2 wither skulls that orbit around you dealing *magic* damage on contact. Additionally, basic attacks wither enemies for a 5 seconds.|Ramping Damage
 |Thrust|Thrust your weapon forward, dealing *physical* damage.|Range
 |Tidal Wave|Send a tidal wave dealing *magic* damage to entities it passes through.|AOE Damage
+|Time Ripper|Summons a clone at your crosshair direction, then teleports to the clone dealing damage to all entities between the path.|Horde Clearing, Mobility
 |Tomahawk Throw|Throw your axe dealing *physical* damage on hit.|Range
 |Transcendence|Begin to spin, slashing and throwing enemies in a radius dealing *physical* and *magic* damage. Additionally, grants an aura of 3 obitals that deals 10% bonus *magic* damage on hit and through basic attacks.|AOE Damage, Damage Multiplier, Ramping Damage
 |Vampirism|Drains and steals health.|Sustain
