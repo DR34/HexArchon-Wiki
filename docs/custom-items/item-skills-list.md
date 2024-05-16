@@ -52,6 +52,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Holy Missile|Casts a projectile dealing *magic* damage on hit.|Range
 |Ice Bolt|Casts an icy projectile dealing *magic* damage on hit.|Range
 |Infernal Bloodlust|Jump in the air then smash the ground, then become stunned for a duration, draining up to 5 entities in radius 6 times for 1 HP. After the duration, strike all entities in radius dealing *magic* damage and igniting them.|AOE Damage, Sustain
+|Infernal Power Orb|Summons an Infernal Power Orb, shooting bursts of projectiles at nearby enemies in radius dealing *magic* damage.|Horde Clearing
 |Last Ring|After a delay, leap forward and deal *physical* and *magic* damage to entities in path.|AOE Damage, Mobility
 |Life From Death|Summons an Ally Whispering Phantom that fights alongside you.|Damage Increase, Horde Clearing
 |Light Dash|Dash toward crosshair direction, dealing *physical* damage to passing entities.|Mobility
