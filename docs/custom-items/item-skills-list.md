@@ -35,7 +35,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Deadly Poison|Deal *magic* damage to target entity over a few seconds.|Damage Increase
 |Deafening Impact|Dash toward a crosshair entity, jumping then smashing the ground dealing AOE *magic* damage.|AOE Damage, Mobility
 |Descending Storm|Casts a descending projectile, once it lands, calls a lightning strike dealing AOE *magic* damage. The radius increases with bonus Magic Damage.|AOE Damage
-|Diamond Dance|Shoots 3 homing projectiles to the nearest enemy in radius, dealing *magic* damage.|Range
+|Diamond Dance|Shoots 3 homing projectiles to the nearest enemy in radius, dealing *magic* damage. Does nothing if no enemies in range.|Range
 |Disarray|Has three different casts, with each cast dashing you forward granting your next attack 25% extra damage. The first cast slashes downward. The second cast slashes horizontally. The third cast slams the ground, dealing AOE damage and knocking up enemies.|AOE Damage, Crowd Control, Mobility.
 |Divine Strike|Powerfully jump in the air, then dash toward a target on crosshair dealing AOE *magic damage* on impact. Additionally, your next attack sends a damaging wave of ice *(Not affected by magic/skill damage)*.|AOE Damage, Mobility
 |Double Strike|Deals extra *physical* damage after a delay.|Damage Increase
