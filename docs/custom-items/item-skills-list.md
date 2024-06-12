@@ -22,7 +22,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Arcane Surge|Grants an aura, allowing the caster to shoot a burst of projectiles dealing *magic* damage when shooting their bow.|Damage Increase, Range
 |Archon's Strike|Send up to 3 entities locked airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
 |Backstab|Deal extra damage when striking entities from behind.|Damage Increase
-|Battle Cry|Send a massive projectile forward, granting players Regeneration II and Resistance II, followed by an explosion dealing *magic* damage to enemies.|Buffing, Horde Clearing
+|Battle Cry|Send a massive projectile forward, granting players Regeneration II and Resistance II, followed by an explosion dealing *magic* damage to enemies.|Support, Horde Clearing
 |Blade Dance|Levitate up, then dash toward crosshair entities three times slashing rapidly dealing *physical* damage.|AOE Damage, Mobility
 |Bouncy Fireball|Casts a bouncing fireball that explodes on 3rd impact, dealing AOE *magic* damage.|AOE Damage, Range
 |Burning Slashes|Leap toward a target on crosshair entity slashing rapidly dealing physical and *magic* damage.|AOE Damage, Mobility
@@ -35,6 +35,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Deadly Poison|Deal *magic* damage to target entity over a few seconds.|Damage Increase
 |Deafening Impact|Dash toward a crosshair entity, jumping then smashing the ground dealing AOE *magic* damage.|AOE Damage, Mobility
 |Descending Storm|Casts a descending projectile, once it lands, calls a lightning strike dealing AOE *magic* damage. The radius increases with bonus Magic Damage.|AOE Damage
+|Diamond Dance|Shoots 3 homing projectiles to the nearest enemy in radius, dealing *magic* damage.|Range
 |Disarray|Has three different casts, with each cast dashing you forward granting your next attack 25% extra damage. The first cast slashes downward. The second cast slashes horizontally. The third cast slams the ground, dealing AOE damage and knocking up enemies.|AOE Damage, Crowd Control, Mobility.
 |Divine Strike|Powerfully jump in the air, then dash toward a target on crosshair dealing AOE *magic damage* on impact. Additionally, your next attack sends a damaging wave of ice *(Not affected by magic/skill damage)*.|AOE Damage, Mobility
 |Double Strike|Deals extra *physical* damage after a delay.|Damage Increase
@@ -48,7 +49,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Frozen Curse|Locks on to a target, after a delay, deals damage to surrounding entities.|AOE Damage
 |Freezing Strike|Casts a short projectile dealing *magic* damage.|Range
 |Godly Punches|Creates a chain missile on the target that can bounce to nearby enemies in radius, dealing *physical* and *magic* damage.|Damage Increase, Horde Clearing
-|Goldbreaker|Emerge 3 gold blocks, after a few seconds, the blocks fly toward your crosshair direction dealing AOE *magic* damage on impact.|AOE Damage, Range
+|Goldbreaker|Emerge 3 gold blocks, gaining Resistance III and Regeneration III. After a few seconds, the blocks fly toward your crosshair direction dealing AOE *magic* damage on impact.|AOE Damage, Range
 |Grand Heal|Heal yourself and nearby players instantly restoring HP.|Support, Sustain
 |Grapple|Grapple and leap towards target direction.|Mobility
 |Harvest|Heals for 2 HP and deals AOE *magic* damage.|AOE Damage, Sustain
