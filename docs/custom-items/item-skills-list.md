@@ -22,6 +22,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Arcane Surge|Grants an aura, allowing the caster to shoot a burst of projectiles dealing *magic* damage when shooting their bow.|Damage Increase, Range
 |Archon's Strike|Send up to 3 entities locked airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
 |Backstab|Deal extra damage when striking entities from behind.|Damage Increase
+|Battle Cry|Send a massive projectile forward, granting players Regeneration II and Resistance II, followed by an explosion dealing *magic* damage to enemies.|Buffing, Horde Clearing
 |Blade Dance|Levitate up, then dash toward crosshair entities three times slashing rapidly dealing *physical* damage.|AOE Damage, Mobility
 |Bouncy Fireball|Casts a bouncing fireball that explodes on 3rd impact, dealing AOE *magic* damage.|AOE Damage, Range
 |Burning Slashes|Leap toward a target on crosshair entity slashing rapidly dealing physical and *magic* damage.|AOE Damage, Mobility
@@ -91,6 +92,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Sweeping Slashes|Casts a projectile of slashes dealing *physical* damage.|Horde Clearing, Range
 |Sweeping Storm|Casts a tornado towards target direction, pulling nearby entities and dealing *magic* damage.|Crowd Control, Horde Clearing
 |Test of Soul|Grants 2 wither skulls that orbit around you dealing *magic* damage on contact. Additionally, basic attacks wither enemies for a 5 seconds.|Ramping Damage
+|Thirst For War|Increases your On Hit Damage by a multiplier for a short duration after killing an entity.|Damage Increase
 |Thrust|Thrust your weapon forward, dealing *physical* damage.|Range
 |Tidal Wave|Send a tidal wave dealing *magic* damage to entities it passes through.|AOE Damage
 |Titanic Ascension|Deals *magic* damage and knocks back nearby enemies, and the following abilities are enhanced for a duration. Godly Punches deals bonus damage, bounces to additional enemies, and heals you for each enemy hit. Leeching Claws will always deal marked damage, deals bonus damage, and heals for double the amount.|Crowd Control, Damage Increase, Sustain
