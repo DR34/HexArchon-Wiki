@@ -20,7 +20,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 | :------------- |:-------------| :------------- 
 |Arcane Hail|Showers arcane projectiles in the target area, dealing *magic* damage on hit.|AOE Damage
 |Arcane Surge|Grants an aura, allowing the caster to shoot a burst of projectiles dealing *magic* damage when shooting their bow.|Damage Increase, Range
-|Archon's Strike|Send up to 3 entities locked airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
+|Archon's Strike|Send up to 3 entities airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
 |Backstab|Deal extra damage when striking entities from behind.|Damage Increase
 |Battle Cry|Send a massive projectile forward, granting players Regeneration II and Resistance II, followed by an explosion dealing *magic* damage to enemies.|Support, Horde Clearing
 |Blade Dance|Levitate up, then dash toward crosshair entities three times slashing rapidly dealing *physical* damage.|AOE Damage, Mobility
@@ -53,7 +53,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Grand Heal|Heal yourself and nearby players instantly restoring HP.|Support, Sustain
 |Grapple|Grapple and leap towards target direction.|Mobility
 |Harvest|Heals for 2 HP and deals AOE *magic* damage.|AOE Damage, Sustain
-|Heal|Heal yourself instantly restoring HP.|Sustain
+|Heal|Instantly restores HP.|Sustain
 |Heavenly Stars|Readies a big slash dealing *magical* and *physical* damage.|AOE Damage
 |Heavy Charge|Charge forward, dealing *physical* damage and knocking back the first enemy hit|Mobility
 |Holy Missile|Casts a projectile dealing *magic* damage on hit.|Range
@@ -74,7 +74,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Overgrow|Casts a projectile volley of vines dealing *magic* damage on hit.|Horde Clearing, Range
 |Permafrost|Slows and deals *magic* damage to hit entity.|Damage Increase
 |Radar|Causes nearby entities to glow for a duration.|Vision
-|Rapidfire|Shoot several arrows rapidly.|Range
+|Rapidfire|Rapidly fire several arrows in succession, dealing *physical* damage.|Range
 |Sandstorm|Shoots a projectile, on impact, summons a sandstorm pulling nearby entities dealing damage *(Not affected by magic/skill damage)*.|AOE Damage, Crowd Control
 |Scarlet Slash|Casts an ascending projectile dealing *magic* damage on hit.|Range
 |Sky Smash|Strikes entities in front of you dealing *physical* damage and knocking them airborne.|Crowd Control
